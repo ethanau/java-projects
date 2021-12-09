@@ -2,7 +2,7 @@
 /**
  * A class for holding the information and function specific to the item.
  *
- * @author Yebin Ge
+ * @author
  */
 public class Item extends Entity {
 
