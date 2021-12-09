@@ -7,7 +7,7 @@ import java.util.Scanner;
  * A class for rendering the game world, updating the entities in game world, running the battle loop, loading and
  * saving player data, and loading a game world file.
  *
- * @author Yebin Ge
+ * @author
  */
 public class World {
 
