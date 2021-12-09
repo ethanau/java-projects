@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 /**
  * A class for running the game engine.
  *
- * @author Yebin Ge
+ * @author
  */
 public class GameEngine {
 
