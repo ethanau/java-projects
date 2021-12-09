@@ -2,7 +2,7 @@
 /**
  * A class for holding the information of the map, initialize the map, and check whether a position is traversable.
  *
- * @author Yebin Ge
+ * @author
  */
 public class Map {
 
