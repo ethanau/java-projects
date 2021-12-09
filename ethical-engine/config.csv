@@ -1,0 +1,16 @@
+class,gender,age,bodyType,profession,pregnant,isYou,species,isPet,role
+scenario:green,,,,,,,,,
+human,female,24,average,doctor,FALSE,TRUE,,,passenger
+human,male,40,overweight,unemployed,FALSE,FALSE,,,passenger
+human,female,2,average,,FALSE,FALSE,,,passenger
+human,male,82,average,,FALSE,FALSE,,,pedestrian
+human,female,32,average,ceo,TRUE,FALSE,,,pedestrian
+human,male,7,athletic,,FALSE,FALSE,,,pedestrian
+animal,male,4,,,FALSE,FALSE,dog,TRUE,pedestrian
+scenario:red,,,,,,,,,
+animal,female,4,,,FALSE,FALSE,cat,TRUE,pedestrian
+animal,female,2,,,FALSE,FALSE,bird,FALSE,pedestrian
+human,female,30,athletic,doctor,FALSE,FALSE,,,pedestrian
+human,male,1,average,homeless,FALSE,FALSE,,,pedestrian
+human,female,32,average,,TRUE,FALSE,,,passenger
+human,male,40,athletic,criminal,FALSE,FALSE,,,passenger
