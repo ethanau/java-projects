@@ -2,7 +2,7 @@
 /**
  * An abstract class for holding the common information and behaviour of the entities in the game world.
  *
- * @author Yebin Ge
+ * @author
  */
 public abstract class Entity {
 
