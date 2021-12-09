@@ -2,7 +2,7 @@
 /**
  * A custom exception class to indicate the message "Map not found".
  *
- * @author Yebin Ge
+ * @author
  */
 public class GameLevelNotFoundException extends Exception {
 
