@@ -2,7 +2,7 @@
 /**
  * A class for holding the information and behaviour specific to the monster.
  *
- * @author Yebin Ge
+ * @author
  */
 public class Monster extends Unit{
 
