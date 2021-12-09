@@ -2,7 +2,7 @@
 /**
  * An abstract class for holding the common information and behaviour of the player and the monster.
  *
- * @author Yebin Ge
+ * @author
  */
 public abstract class Unit extends Entity {
 
