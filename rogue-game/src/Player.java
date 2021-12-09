@@ -4,7 +4,7 @@ import java.io.Serializable;
 /**
  * A class for holding the information and behaviour specific to the player.
  *
- * @author Yebin Ge
+ * @author
  */
 public class Player extends Unit implements Serializable {
 
