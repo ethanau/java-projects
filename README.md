@@ -1,5 +1,5 @@
 # java-projects
-##This repository stores two java projects for unimelb's programming subject.
+## This repository stores two java projects for unimelb's programming subject.
 
 [A rouge like game](rogue-game)<br>
 This project implements an adapted version of the classic role-playing video game Rogue 
