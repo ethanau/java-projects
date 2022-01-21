@@ -3,7 +3,7 @@
 
 [A rouge like game](rogue-game)<br>
 This project implements an adapted version of the classic role-playing video game Rogue 
-from the 1880s.
+from the 1980s.
 
 [A ethical-engine](ethical-engine)<br>
 The Ethical Engine is based on the Trolley Dilemma, a hypothetical situation 
